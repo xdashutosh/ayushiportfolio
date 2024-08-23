@@ -107,7 +107,7 @@ const Home = () => {
               preRenderFirstString={true}
               sequence={[
                 500,
-                "Reactjs", // initially rendered starting point
+                "Figma", // initially rendered starting point
                 1000,
                 "UI/UX",
                 1000,
